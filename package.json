@@ -18,6 +18,11 @@
   "homepage": "https://github.com/gomezv9/angulartests#readme",
   "dependencies": {
     "browser-sync": "^2.14.0",
-    "gulp": "^3.9.1"
+    "gulp": "^3.9.1",
+    "karma": "^1.2.0",
+    "mocha": "^3.0.2"
+  },
+  "devDependencies": {
+    "karma-phantomjs-launcher": "^1.0.1"
   }
 }
